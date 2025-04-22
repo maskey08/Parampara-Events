@@ -1,0 +1,110 @@
+ * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Hanken Grotesk", sans-serif;
+        line-height: 1.6;
+        color: #333;
+      }
+
+      .header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 30px;
+        transition: background-color 0.4s ease, box-shadow 0.4s ease;
+        background: linear-gradient(
+          to bottom,
+          rgba(255, 255, 255, 0.95),
+          rgba(255, 255, 255, 0)
+        );
+      }
+
+      .header.scrolled {
+        background-color: #ffffffa3;
+        backdrop-filter: blur(2px);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+      }
+
+      .nav {
+        display: flex;
+        gap: 50px;
+        align-items: center;
+      }
+
+      a {
+        font-size: 17px;
+        text-decoration: none;
+        color: #000;
+        transition: color 0.3s ease;
+      }
+
+      a:hover {
+        color: #e74c3c;
+      }
+
+      #logo img {
+        height: 60px;
+      }
+
+      .icon {
+        position: absolute;
+        right: 30px;
+        top: 50%;
+        transform: translateY(-45%);
+        display: flex;
+        align-items: center;
+        align-items: center;
+        gap: 15px;
+      }
+
+      .search {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+
+      .search-bar {
+        border: none;
+        background-color: inherit;
+        width: 125px;
+        height: 24px;
+        padding: 0 4px;
+        font-size: 14px;
+        outline: none;
+        vertical-align: middle;
+      }
+
+      .search:has(.search-bar:focus) {
+        border-bottom: 1px solid #000;
+      }
+
+      .search-icon svg {
+        width: 23px;
+        height: 23px;
+        transition: width 0.3s ease, height 0.3s ease;
+      }
+
+      .search-bar:focus + .search-icon svg {
+        width: 20px;
+        height: 20px;
+      }
+
+      .search-icon {
+        border: none;
+        background-color: inherit;
+        cursor: pointer;
+        padding: 0;
+      }
+
+      .search-icon:hover {
+        color: #e74c3c;
+      }
