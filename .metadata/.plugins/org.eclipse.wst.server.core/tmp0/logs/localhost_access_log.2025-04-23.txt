@@ -1,0 +1,4 @@
+127.0.0.1 - - [23/Apr/2025:13:41:37 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [23/Apr/2025:13:41:37 +0545] "GET /islington-student/registration HTTP/1.1" 200 1869
+0:0:0:0:0:0:0:1 - - [23/Apr/2025:13:41:37 +0545] "GET /islington-student/css/home.css HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [23/Apr/2025:13:41:37 +0545] "GET /favicon.ico HTTP/1.1" 404 763

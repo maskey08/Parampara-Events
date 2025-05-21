@@ -1,0 +1,27 @@
+1747826886702	Infer generic type arguments
+1747826921582	Infer generic type arguments
+1747827163873	Copy compilation unit
+1747827173247	Delete element
+1747827374652	Copy compilation unit
+1747827378533	Copy compilation unit
+1747827381260	Copy compilation unit
+1747827383795	Copy compilation unit
+1747827386291	Copy compilation unit
+1747827388959	Copy compilation unit
+1747827400578	Delete element
+1747827410964	Rename package 'com.parampara2.controller'
+1747827934542	Rename package 'java.com.parampara.config'
+1747827974522	Rename package 'java.com.parampara.controller'
+1747827986047	Rename package 'java.com.parampara.model'
+1747827998616	Rename package 'java.com.parampara.service'
+1747828111799	Delete element
+1747828585072	Move 'addservice.jsp' to 'pages'
+1747828588108	Move 'adduser.jsp' to 'pages'
+1747828590084	Move 'addvenue.jsp' to 'pages'
+1747828592314	Move 'admindashboard.jsp' to 'pages'
+1747828594218	Move 'eventmanagement.jsp' to 'pages'
+1747828596188	Move 'servicemanagement.jsp' to 'pages'
+1747828598161	Move 'usermanagement.jsp' to 'pages'
+1747828600412	Move 'venuemanagement.jsp' to 'pages'
+1747828603906	Move 'web.xml' to 'WEB-INF'
+1747831355721	Delete element

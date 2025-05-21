@@ -1,0 +1,4 @@
+127.0.0.1 - - [05/May/2025:11:47:06 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [05/May/2025:11:47:06 +0545] "GET /ParamparaEvents/ HTTP/1.1" 500 3047
+0:0:0:0:0:0:0:1 - - [05/May/2025:11:47:07 +0545] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [05/May/2025:12:22:58 +0545] "GET /ParamparaEvents/WEB-INF/pages/admindashboard.jsp HTTP/1.1" 404 683

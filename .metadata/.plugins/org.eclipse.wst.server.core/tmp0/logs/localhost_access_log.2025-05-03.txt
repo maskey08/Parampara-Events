@@ -1,0 +1,13 @@
+127.0.0.1 - - [03/May/2025:18:16:22 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/May/2025:18:16:23 +0545] "GET /ParamparaEvents/ HTTP/1.1" 200 24863
+0:0:0:0:0:0:0:1 - - [03/May/2025:18:16:23 +0545] "GET /ParamparaEvents/admin.png HTTP/1.1" 200 24863
+0:0:0:0:0:0:0:1 - - [03/May/2025:18:16:23 +0545] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [03/May/2025:18:49:35 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/May/2025:18:53:00 +0545] "GET /ParamparaEvents/ HTTP/1.1" 200 24863
+0:0:0:0:0:0:0:1 - - [03/May/2025:18:53:00 +0545] "GET /ParamparaEvents/admin.png HTTP/1.1" 200 24863
+127.0.0.1 - - [03/May/2025:19:15:54 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/May/2025:19:15:54 +0545] "GET /ParamparaEvents/WEB-INF/pages/admindashboard.jsp HTTP/1.1" 404 683
+127.0.0.1 - - [03/May/2025:19:16:44 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/May/2025:19:16:44 +0545] "GET /ParamparaEvents/WEB-INF/pages/admindashboard.jsp HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [03/May/2025:19:16:57 +0545] "GET /ParamparaEvents/ HTTP/1.1" 200 24859
+0:0:0:0:0:0:0:1 - - [03/May/2025:19:16:57 +0545] "GET /ParamparaEvents/admin.png HTTP/1.1" 200 24859

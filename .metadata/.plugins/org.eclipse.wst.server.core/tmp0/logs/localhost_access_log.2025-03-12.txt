@@ -1,0 +1,14 @@
+127.0.0.1 - - [12/Mar/2025:13:11:21 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:11:21 +0545] "GET /islington-student/pages/home.jsp HTTP/1.1" 200 1869
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:11:21 +0545] "GET /islington-student/css/home.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:11:22 +0545] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [12/Mar/2025:13:14:05 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:14:05 +0545] "GET /islington-student/WEB-INF/pages/home.jsp HTTP/1.1" 404 683
+127.0.0.1 - - [12/Mar/2025:13:37:58 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:37:58 +0545] "GET /islington-student/WEB-INF/pages/home.jsp HTTP/1.1" 404 683
+127.0.0.1 - - [12/Mar/2025:13:39:32 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:39:33 +0545] "GET /islington-student/WEB-INF/pages/home.jsp HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:40:17 +0545] "GET /islington-student/WEB-INF/pages/home.jsp HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:41:03 +0545] "GET /islington-student/WEB-INF/pages/home.jsp HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:41:17 +0545] "GET /islington-student/WEB-INF/pages/home.jsp HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [12/Mar/2025:13:41:31 +0545] "GET /islington-student/home HTTP/1.1" 200 1869

@@ -1,0 +1,5 @@
+package com.parampara.model;
+
+public class UserModel {
+
+}
