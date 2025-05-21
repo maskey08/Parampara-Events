@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;com.parampara.config.Dbconfig.java&apos; to &apos;DbConfig.java&apos;&#x0D;&#x0A;- Original project: &apos;Admin&apos;&#x0D;&#x0A;- Original element: &apos;com.parampara.config.Dbconfig.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.parampara.config.DbConfig.java&apos;" description="Rename compilation unit &apos;Dbconfig.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.parampara.config{Dbconfig.java" name="DbConfig.java" references="false" stamp="1747829694360" version="1.0"/>
-</session>

@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1972951583.index
-2740915529.index
-4019715417.index
-2220363570.index
-1953909667.index
