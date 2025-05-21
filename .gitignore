@@ -1,0 +1,7 @@
+.metadata/
+.plugins/
+.mylyn/
+*.log
+*.zip
+Admindash/
+Admindashmain/
